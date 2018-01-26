@@ -8,5 +8,4 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Hi! I'm Wentao Zou. I am a senior at NYU studying Computer Science & Economics. I love swimming and was in NYU swimming team for two years. 
